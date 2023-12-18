@@ -1,0 +1,5 @@
+Steps
+1. Find out which commands I am to use.
+2. Understand the flags necessary for what I need.
+3. Find out how I string the commands together
+4. Try not to die when you realize we'll be using tools to do this stuff on a massive scale.
